@@ -6,7 +6,7 @@ This folder contains data retrieval process implemented with XPath Language vers
 2. Do subsequent API calls (defined with XPath and XML) to retrieve data from the database and parse data into spreadsheet.
 3. Use the data to generate reports (business, contacts, membership renewal, membership lapsed etc.) 
 
-To be specific, the application uses OAuth authentication to gain access of the admin view of the database supported by Wild Apricot (https://www.wildapricot.com/). It retrieves contact information, auditLog items information and event registrations information from the database and utilizes the data to plot subsequent pivot charts. To guarantee the efficiency of the User Interface (UI), the program is also supported with by a progress bar to indicate current progress.   
+To be specific, the application uses OAuth authentication to gain access of the admin view of the database supported by Wild Apricot (https://www.wildapricot.com/). It retrieves contact information, auditLog items information and event registrations information from the database and utilizes the data to plot subsequent pivot charts. To guarantee the efficiency of the User Interface (UI), the program is also supported with a progress bar to indicate current progress.   
 
 # Purpose:
 The main purpose for this project is to provide a means to securely access the database and retrieve data for business analysis purposes.
@@ -14,7 +14,7 @@ The main purpose for this project is to provide a means to securely access the d
 # Application:
 Business Analysis (such as creating charts or pivot charts to store business information so as to reckon and analyse market trend)
 
-# References
+# Reference:
 Wild Apricot Help (syntax and API calls references):
 https://gethelp.wildapricot.com/en
 
