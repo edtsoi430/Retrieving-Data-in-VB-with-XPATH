@@ -14,7 +14,7 @@ The main purpose for this project is to provide a means to securely access the d
 # Application:
 Business Analysis (such as creating charts or pivot charts to store business information so as to reckon and analyse market trend)
 
-#References
+# References
 Wild Apricot Help (syntax and API calls references):
 https://gethelp.wildapricot.com/en
 
