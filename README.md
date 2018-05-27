@@ -1,4 +1,4 @@
-# Data-Retrieval-through-Visual-Basic
+# Data Retrieval using XPath, XML and Visual Basic
 # Description: 
 This folder contains data retrieval process implemented with XPath Language version 3.1 (XML). The whole process can be pictured or generally divided into the following subprocesses:
 
