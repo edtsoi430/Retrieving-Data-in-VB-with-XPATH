@@ -15,6 +15,7 @@ The main purpose for this project is to provide a means to securely access the d
 Strutured business Analysis (functions include creating creating detailed charts or pivot tables to store business information so as to reckon and analyse market trend.)
 
 # Business Contacts:
+New Path Technology Consulting Ltd.  
 Email: edmond@newpathconsulting.com / edtsoi430@gmail.com  
 
 # Reference:
