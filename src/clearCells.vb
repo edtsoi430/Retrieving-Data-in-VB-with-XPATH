@@ -20,3 +20,26 @@ Sub ClearCellWarning()
     SettingsSheet.Range(cn.outLoadingState) = "Audit Log Complete"
 
 End Sub
+
+Sub ClearResultCells()
+    SettingsSheet.Range(cn.outGeneralInfo).ClearContents
+    SettingsSheet.Range(cn.outLoadingStateInfo).ClearContents
+    
+    LevelsSheet.Range(cn.outLevelsList).ClearContents
+    LevelsSheet.Range(cn.outLevelsList).WrapText = True
+    
+    FieldsSheet.Range(cn.outFieldsList).ClearContents
+    FieldsSheet.Range(cn.outFieldsList).WrapText = True
+    
+    ContactsSheet.Range(cn.outContactHeaders).ClearContents
+    ContactsSheet.Range(cn.outContactHeaders).WrapText = True
+    ContactsSheet.Range(cn.outContactsList).Delete
+    
+    AuditPropertiesSheet.Range("out_AuditPropertiesHeaders").ClearContents
+    
+    AuditPropertiesSheet.Range(cn.outAuditPropertiesList).ClearContents
+    AuditPropertiesSheet.Range(cn.outAuditPropertiesList).WrapText = False
+    AuditPropertiesSheet.Range(cn.outAuditPropertiesList).Delete
+   
+End Sub
+
