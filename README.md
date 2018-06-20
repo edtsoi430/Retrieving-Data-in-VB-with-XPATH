@@ -12,7 +12,10 @@ To be specific, the application uses OAuth authentication to gain access of the 
 The main purpose for this project is to provide a means to securely access the database and retrieve data for business analysis purposes. For security reasons, the API keys used for testing is omitted.
 
 # Application:
-Business Analysis (such as creating charts or pivot charts to store business information so as to reckon and analyse market trend)
+Strutured business Analysis (functions include creating creating detailed charts or pivot tables to store business information so as to reckon and analyse market trend.)
+
+# Contacts:
+email: edmond@newpathconsulting.com / edtsoi430@gmail.com  
 
 # Reference:
 Wild Apricot Help (syntax and API calls references):
@@ -21,4 +24,4 @@ https://gethelp.wildapricot.com/en
 XPath References (Syntax and examples):
 https://msdn.microsoft.com/en-us/library/ms256086(v=vs.110).aspx
 
-// Last Edited by Edmond Tsoi, 5-27-2018.
+
