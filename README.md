@@ -15,8 +15,7 @@ The main purpose for this project is to provide a simplistic way to securely acc
 Strutured business Analysis (functions include creating creating detailed charts or pivot tables to store business information so as to reckon and analyse market trend.)
 
 # Business Contacts:
-NewPath Technology Consulting Ltd.  
-Email: edmond@newpathconsulting.com / edtsoi430@gmail.com  
+Email: edtsoi@umich.edu/ edtsoi430@gmail.com  
 
 # Reference:
 Wild Apricot Help (syntax and API calls references):
