@@ -14,7 +14,7 @@ The main purpose for this project is to provide a simplistic way to securely acc
 # Application:
 Strutured business Analysis (functions include creating creating detailed charts or pivot tables to store business information so as to reckon and analyse market trend.)
 
-# Business Contacts:
+# Contacts:
 Email: edtsoi@umich.edu/ edtsoi430@gmail.com  
 
 # Reference:
