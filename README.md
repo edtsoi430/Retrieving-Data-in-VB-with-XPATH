@@ -1,6 +1,6 @@
 # Data Retrieval using XPath, Visual Basic and XML
 # Description: 
-This folder contains data retrieval process implemented with XPath Language version 3.1 (XML). The whole process can be pictured or generally divided into the following subprocesses:
+This repository contains data retrieval process implemented with XPath Language version 3.1 (XML). The whole process can be pictured or generally divided into the following subprocesses:
 
 1. Use OAuth2.0 (which is frequently used by big companies such as Facebook, Google and Microsoft) to securely access database with a given API key.
 2. Do subsequent API calls (defined with XPath and XML) to retrieve data from the database and parse data into spreadsheet.
